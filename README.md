@@ -92,7 +92,7 @@
 | [SmartCalc v1.0](https://github.com/HeisYenberg/SmartCalc-on-C-QT) | Realization of calculator in C and C++ languages using QT framework |  C, C++, OOP, QT, Makefile, QMake, Check.h |
 | [Matrix library v1.0](https://github.com/HeisYenberg/My-Matrix-H-on-C) | Implementation of our own version of the library for working with matrixes | C, Makefile, Check.h |
 | [Decimal library](https://github.com/HeisYenberg/My-Decimal-H-on-C) | Implementation of my own version of the decimal.h library | C, Makefile, Check.h |
-| [Sting library](https://github.com/HeisYenberg/My-String-H-on-C) | Implementation of my own version of the string.h library | C, Makefile, Check.h |
+| [String library](https://github.com/HeisYenberg/My-String-H-on-C) | Implementation of my own version of the string.h library | C, Makefile, Check.h |
 | [Math library](https://github.com/HeisYenberg/My-Math-H-on-C) | Implementation of my own version of the math.h library | C, Makefile, Check.h |
 | [Simple Bash Utils](https://github.com/HeisYenberg/Bash-Utils-on-C) | Development of Bash text utilities: cat, grep | C, Makefile, Check.h |
 | [Game of Life](https://github.com/HeisYenberg/Game-of-Life-on-C) | Console visualization of "The Game of Life" | C, Makefile, Check.h |
