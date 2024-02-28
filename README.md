@@ -37,15 +37,15 @@
 
 ## 💻 IDEs/Editors:
 
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=black&labelColor=red)
+![CLion](https://img.shields.io/badge/CLion-black?style=for-the-badge&logo=clion&logoColor=black&labelColor=blue)
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
-![CLion](https://img.shields.io/badge/CLion-black?style=for-the-badge&logo=clion&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ## 🕓 Version control:
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+![GitLab](https://img.shields.io/badge/gitlab-%23F05033.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
 
 ## 👾 Other tools:
@@ -66,8 +66,8 @@
 | Project name      | Description | Stack |
 | ------------- | ------------------------ | ------------------------ |
 | [SpringChat](https://github.com/HeisYenberg/SpringChat) | Multi-User Chat Application | Java, Maven, Spring Framework, JPA, WebSockets, JavaFX |
-| [ORM](https://github.com/HeisYenberg/ORM) | Простой ORM для Java с использованием Reflections API | Java, Maven, Reflection API |
-| [Java Bootcamp](https://github.com/HeisYenberg/Java-BootCamp) | Java Core | Maven, IO, Files, Threads, JAR |
+| [ORM](https://github.com/HeisYenberg/ORM) | ORM: A Simple ORM for Java Using the Reflections API | Java, Maven, Reflection API |
+| [Java Bootcamp](https://github.com/HeisYenberg/Java-BootCamp) | From basic Java constructs and object-oriented programming to advanced concepts like multithreading, JAR files, and the Spring framework | OOP, Collections API, IO, Files, Threads, JAR, JDBC, JUnit, Mockito, Reflection API, Spring, Sockets |
 
 ### *SQL*  
 | Project name      | Description | Stack |
