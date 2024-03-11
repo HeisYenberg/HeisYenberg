@@ -65,6 +65,7 @@
 ### *Java*  
 | Project name      | Description | Stack |
 | ------------- | ------------------------ | ------------------------ |
+| [SpringBookShop](https://github.com/HeisYenberg/SpringBookShop) |SpringBookShop: Book Shop Management System | Java, Maven, Spring Framework, JPA, Security, Thymeleaf |
 | [SpringChat](https://github.com/HeisYenberg/SpringChat) | Multi-User Chat Application | Java, Maven, Spring Framework, JPA, WebSockets, JavaFX |
 | [ORM](https://github.com/HeisYenberg/ORM) | ORM: A Simple ORM for Java Using the Reflections API | Java, Maven, Reflection API |
 | [Java Bootcamp](https://github.com/HeisYenberg/Java-BootCamp) | From basic Java constructs and object-oriented programming to advanced concepts like multithreading, JAR files, and the Spring framework | OOP, Collections API, IO, Files, Threads, JAR, JDBC, JUnit, Mockito, Reflection API, Spring, Sockets |
