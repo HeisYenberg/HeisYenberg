@@ -65,8 +65,10 @@
 ### *Java*  
 | Project name      | Description | Stack |
 | ------------- | ------------------------ | ------------------------ |
-| [SpringBookShop](https://github.com/HeisYenberg/SpringBookShop) |SpringBookShop: Book Shop Management System | Java, Maven, Spring Framework, MVC, JPA, Security, Thymeleaf |
-| [SpringChat](https://github.com/HeisYenberg/SpringChat) | Multi-User Chat Application | Java, Maven, Spring Framework, JPA, WebSockets, JavaFX |
+| [SpringCRMBot](https://github.com/HeisYenberg/SpringCRMBot) | SpringCRMBot: Java CRM telegram bot | Java, Maven, Lombok, Spring Framework, Web, JPA, Security, Telegram API  |
+| [SimbirSoftTestTaskQA](https://github.com/HeisYenberg/SimbirSoftTestTaskQA)| Test task for SimbirSoft company | Java, Maven, JUnit5, Selenium, Selenium Grid, Allure |
+| [SpringBookShop](https://github.com/HeisYenberg/SpringBookShop) |SpringBookShop: Book Shop Management System | Java, Maven, Lombok, Spring Framework, MVC, JPA, Security, Thymeleaf |
+| [SpringChat](https://github.com/HeisYenberg/SpringChat) | Multi-User Chat Application | Java, Lombok, Maven, Spring Framework, JPA, WebSockets, JavaFX |
 | [ORM](https://github.com/HeisYenberg/ORM) | ORM: A Simple ORM for Java Using the Reflections API | Java, Maven, Reflection API |
 | [Java Bootcamp](https://github.com/HeisYenberg/Java-BootCamp) | From basic Java constructs and object-oriented programming to advanced concepts like multithreading, JAR files, and the Spring framework | OOP, Collections API, IO, Files, Threads, JAR, JDBC, JUnit, Mockito, Reflection API, Spring, Sockets |
 
