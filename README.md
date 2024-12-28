@@ -91,6 +91,7 @@
 ### *Java*  
 | Project name      | Description | Stack |
 | ------------- | ------------------------ | ------------------------ |
+| [SpringBookShopAutotest](https://github.com/HeisYenberg/SpringBookShopAutotests)| Test framework for UI auto-test of SpringBookShop project. | Java, Maven, TestNG, Selenide, Allure, Jackson, Logback, JDBC, Page Object |
 | [SmartCalc V3.0](https://github.com/HeisYenberg/SmartCalcV3.0-on-Java) | Realization of calculator in Java language using JavaFx framework | Java, Maven, JavaCPP, C++, JavaFX |
 | [SpringCRMBot](https://github.com/HeisYenberg/SpringCRMBot) | SpringCRMBot: Java CRM telegram bot | Java, Maven, Lombok, Spring Framework, Web, JPA, Security, Telegram API  |
 | [SimbirSoftTestTaskQA](https://github.com/HeisYenberg/SimbirSoftTestTaskQA)| Test task for SimbirSoft company | Java, Maven, JUnit5, Selenium, Selenium Grid, Allure |
