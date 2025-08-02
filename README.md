@@ -1,14 +1,14 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7B47F7&random=false&width=435&lines=SDET+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7B47F7&random=false&width=435&lines=Backend+Developer)](https://git.io/typing-svg)
 ### Hi there 👋
 
 ## ⚡ About Me:
 >- 👨‍💻: Sadykov Danil
->- 💻: Software Development Engineer in Test
+>- 💻: Backend Developer
 >- 👨‍🎓: [School 21](https://21-school.ru/)
 >- 🌆: Kazan, Russia
 >- 🌐 Contacts:  
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/heisyenberg)
-[![G-Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hiesyenberg@gmail.com)
+[![G-Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:heisyenberg@gmail.com)
 
 ## 🚀 Languages:
 
@@ -16,9 +16,6 @@
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
-
-
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
@@ -26,21 +23,17 @@
 ![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ## 📚 Frameworks:
-![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white)
-![RestAssured](https://img.shields.io/badge/-RestAssured-3DDC84?style=for-the-badge&logoColor=black)
-![Allure](https://img.shields.io/badge/Allure-FCC624?style=for-the-badge&logoColor=white)
-
-![XCTest](https://img.shields.io/badge/-XCTest-%43B02A?style=for-the-badge&logoColor=white)
-![Espresso](https://img.shields.io/badge/Espresso-%23008FBA.svg?color=red&style=for-the-badge&logoColor=white)
-![Kaspresso](https://img.shields.io/badge/-Kaspresso-3DDC84?style=for-the-badge&logoColor=black)
-
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=fff)](#)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
 ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white)
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+
+![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![RestAssured](https://img.shields.io/badge/-RestAssured-3DDC84?style=for-the-badge&logoColor=black)
+![Allure](https://img.shields.io/badge/Allure-FCC624?style=for-the-badge&logoColor=white)
 
 ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
 ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl)
